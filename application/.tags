@@ -1,0 +1,50 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Blog	.\controllers\Blog.php	/^class Blog extends CI_Controller {$/;"	c
+DIR_READ_MODE	.\config\constants.php	/^defined('DIR_READ_MODE')   OR define('DIR_READ_MODE', 0755);$/;"	d
+DIR_WRITE_MODE	.\config\constants.php	/^defined('DIR_WRITE_MODE')  OR define('DIR_WRITE_MODE', 0755);$/;"	d
+EXIT_CONFIG	.\config\constants.php	/^defined('EXIT_CONFIG')         OR define('EXIT_CONFIG', 3); \/\/ configuration error$/;"	d
+EXIT_DATABASE	.\config\constants.php	/^defined('EXIT_DATABASE')       OR define('EXIT_DATABASE', 8); \/\/ database error$/;"	d
+EXIT_ERROR	.\config\constants.php	/^defined('EXIT_ERROR')          OR define('EXIT_ERROR', 1); \/\/ generic error$/;"	d
+EXIT_SUCCESS	.\config\constants.php	/^defined('EXIT_SUCCESS')        OR define('EXIT_SUCCESS', 0); \/\/ no errors$/;"	d
+EXIT_UNKNOWN_CLASS	.\config\constants.php	/^defined('EXIT_UNKNOWN_CLASS')  OR define('EXIT_UNKNOWN_CLASS', 5); \/\/ unknown class$/;"	d
+EXIT_UNKNOWN_FILE	.\config\constants.php	/^defined('EXIT_UNKNOWN_FILE')   OR define('EXIT_UNKNOWN_FILE', 4); \/\/ file not found$/;"	d
+EXIT_UNKNOWN_METHOD	.\config\constants.php	/^defined('EXIT_UNKNOWN_METHOD') OR define('EXIT_UNKNOWN_METHOD', 6); \/\/ unknown class member$/;"	d
+EXIT_USER_INPUT	.\config\constants.php	/^defined('EXIT_USER_INPUT')     OR define('EXIT_USER_INPUT', 7); \/\/ invalid user input$/;"	d
+EXIT__AUTO_MAX	.\config\constants.php	/^defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); \/\/ highest automatically-assigned error code$/;"	d
+EXIT__AUTO_MIN	.\config\constants.php	/^defined('EXIT__AUTO_MIN')      OR define('EXIT__AUTO_MIN', 9); \/\/ lowest automatically-assigned error code$/;"	d
+FILE_READ_MODE	.\config\constants.php	/^defined('FILE_READ_MODE')  OR define('FILE_READ_MODE', 0644);$/;"	d
+FILE_WRITE_MODE	.\config\constants.php	/^defined('FILE_WRITE_MODE') OR define('FILE_WRITE_MODE', 0666);$/;"	d
+FOPEN_READ	.\config\constants.php	/^defined('FOPEN_READ')                           OR define('FOPEN_READ', 'rb');$/;"	d
+FOPEN_READ_WRITE	.\config\constants.php	/^defined('FOPEN_READ_WRITE')                     OR define('FOPEN_READ_WRITE', 'r+b');$/;"	d
+FOPEN_READ_WRITE_CREATE	.\config\constants.php	/^defined('FOPEN_READ_WRITE_CREATE')              OR define('FOPEN_READ_WRITE_CREATE', 'a+b');$/;"	d
+FOPEN_READ_WRITE_CREATE_DESTRUCTIVE	.\config\constants.php	/^defined('FOPEN_READ_WRITE_CREATE_DESTRUCTIVE')  OR define('FOPEN_READ_WRITE_CREATE_DESTRUCTIVE', 'w+b'); \/\/ truncates existing file data, use with care$/;"	d
+FOPEN_READ_WRITE_CREATE_STRICT	.\config\constants.php	/^defined('FOPEN_READ_WRITE_CREATE_STRICT')       OR define('FOPEN_READ_WRITE_CREATE_STRICT', 'x+b');$/;"	d
+FOPEN_WRITE_CREATE	.\config\constants.php	/^defined('FOPEN_WRITE_CREATE')                   OR define('FOPEN_WRITE_CREATE', 'ab');$/;"	d
+FOPEN_WRITE_CREATE_DESTRUCTIVE	.\config\constants.php	/^defined('FOPEN_WRITE_CREATE_DESTRUCTIVE')       OR define('FOPEN_WRITE_CREATE_DESTRUCTIVE', 'wb'); \/\/ truncates existing file data, use with care$/;"	d
+FOPEN_WRITE_CREATE_STRICT	.\config\constants.php	/^defined('FOPEN_WRITE_CREATE_STRICT')            OR define('FOPEN_WRITE_CREATE_STRICT', 'xb');$/;"	d
+SHOW_DEBUG_BACKTRACE	.\config\constants.php	/^defined('SHOW_DEBUG_BACKTRACE') OR define('SHOW_DEBUG_BACKTRACE', TRUE);$/;"	d
+Welcome	.\controllers\Welcome.php	/^class Welcome extends CI_Controller {$/;"	c
+_doctypes	.\config\doctypes.php	/^$_doctypes = array($/;"	v
+active_group	.\config\database.php	/^$active_group = 'default';$/;"	v
+and	.\config\migration.php	/^| If this is set to TRUE when you load the migrations class and have$/;"	c
+blogs	.\controllers\Blog.php	/^	public function blogs()$/;"	f
+browsers	.\config\user_agents.php	/^$browsers = array($/;"	v
+config	.\config\memcached.php	/^$config = array($/;"	v
+foreign_characters	.\config\foreign_chars.php	/^$foreign_characters = array($/;"	v
+index	.\controllers\Blog.php	/^	public function index()$/;"	f
+index	.\controllers\Welcome.php	/^	public function index()$/;"	f
+member	.\config\constants.php	/^defined('EXIT_UNKNOWN_METHOD') OR define('EXIT_UNKNOWN_METHOD', 6); \/\/ unknown class member$/;"	c
+mobiles	.\config\user_agents.php	/^$mobiles = array($/;"	v
+or	.\config\routes.php	/^| class or method name character, so it requires translation.$/;"	c
+platforms	.\config\user_agents.php	/^$platforms = array($/;"	v
+query_builder	.\config\database.php	/^$query_builder = TRUE;$/;"	v
+robots	.\config\user_agents.php	/^$robots = array($/;"	v
+should	.\config\routes.php	/^| This route indicates which controller class should be loaded if the$/;"	c
+smileys	.\config\smileys.php	/^$smileys = array($/;"	v
+to	.\config\mimes.php	/^| Upload class to help identify allowed file types.$/;"	c
+will	.\config\config.php	/^| the output class will test whether your server supports Gzip.$/;"	c
